@@ -142,7 +142,7 @@ section p {
 	text-align: center;
 }
 .banner-area .banner-img {
-	background-image: url(images/a1.jpg);
+	background-image: url(a1.jpg);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -217,7 +217,7 @@ ul.about-content {
 }
 .about-left {
 	flex-basis: 30%;
-	background-image: url(./images/left.jpg);
+	background-image: url(left.jpg);
     border-radius: 35px;
 }
 
@@ -266,7 +266,7 @@ ul.about-content {
 /*msg area*/
 
 .msg-area {
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(./images/image1\ \(2\).jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(image1\ \(2\).jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
